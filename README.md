@@ -28,8 +28,6 @@ Eduardo Moya</a></h1>
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/eduardomoyabriones/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/eduardomoyab">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/edv.vrdo">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1mDqs6QPmeLtB86tP12q9260JXHetx3ip/view?usp=sharing">
