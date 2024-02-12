@@ -10,15 +10,15 @@ Eduardo Moya</a></h1>
 
 - 🧑‍💻 Actualmente me encuentro trabajando como ayudante de investigación en <a href="https://centroenergia.cl/" target="blank">Centro de Energía</a>, lugar donde llevo trabajando desde marzo del 2022.
 
-- ⚡ Me encuentro terminando el 5to año de Ingeniería Civil Eléctrica en la Universidad de Chile.
+- ⚡ Me encuentro cursando el último año de Ingeniería Civil Eléctrica en la Universidad de Chile.
 
-- 💻 De forma paralela me encuentro estudiando en el Magíster en Ciencia de Datos de la Universidad de Chile.
+- 💻 De forma paralela me encuentro estudiando en el Magíster en Ciencia de Datos de la Universidad de Chile, al cual ingresé este año 2024.
 
-- 🤖🧠 Mis áreas de estudio se centran en la inteligencia artificial, específicamente en redes neuronales y aprendizaje automático.
+- 🤖🧠 Mis áreas de estudio se centran en la inteligencia artificial, específicamente en redes neuronales y aprendizaje automático supervisado.
 
-- 📝 He sido ayudante del curso EL3203 Análisis de Señales en la Universidad de Chile por 2 semestres, el cual además es mi cargo actual.
+- 📝 He sido ayudante del curso EL3203 Análisis de Señales en la Universidad de Chile por 2 semestres.
 
-- Correo de contacto: **eduardo.moya.7@gmail.com**
+- Correo de contacto: **eduardo.moya.b@ug.uchile.cl**
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Otros Medios de Contacto 🤝 </h3>
