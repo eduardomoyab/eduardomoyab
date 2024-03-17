@@ -14,9 +14,7 @@ Eduardo Moya</a></h1>
 
 - 💻 De forma paralela me encuentro estudiando en el Magíster en Ciencia de Datos de la Universidad de Chile, al cual ingresé este año 2024.
 
-- 🤖🧠 Mis áreas de estudio se centran en la inteligencia artificial, específicamente en redes neuronales y aprendizaje automático supervisado.
-
-- 📝 He sido ayudante del curso EL3203 Análisis de Señales en la Universidad de Chile por 2 semestres.
+- 🤖🧠 Mis áreas de estudio se centran en la inteligencia artificial, específicamente en redes neuronales y aprendizaje supervisado en modelos de clasificación.
 
 - Correo de contacto: **eduardo.moya.b@ug.uchile.cl**
 
