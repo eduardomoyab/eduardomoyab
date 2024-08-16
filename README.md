@@ -8,15 +8,15 @@ Eduardo Moya</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNhMTV5azMxNXQ3NWlrZDdtZm8wbnRocGh3amZ2YzVlbzNldjZsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dqLX06ea2TJQIdeapg/giphy.gif">
 </a>
 
-- 💼 Actualmente me encuentro realizando una pasantía en MetLife Chile en el área de Business Intelligence. Adicionalmente me encuentro realizando mi tesis, orientada al análisis de EEG en personas con esquizofrenia.
+- 💼 Actualmente me encuentro realizando una pasantía en MetLife Chile en el área de Business Intelligence, realizando pruebas y ajustes a modelos LLM para usos internos de la compañía.
 
 - 🧑‍💻 Trabajé por mas de un año y medio como ayudante de investigación en <a href="https://centroenergia.cl/" target="blank">Centro de Energía</a>, en labores de análisis de datos y desarrollo de software y algoritmos de automatización.
 
 - ⚡ Me encuentro cursando el último año de Ingeniería Civil Eléctrica en la Universidad de Chile.
 
-- 💻 De forma paralela me encuentro estudiando en el Magíster en Ciencia de Datos de la Universidad de Chile.
+- 💻 De forma paralela me encuentro estudiando en el Magíster en Ciencia de Datos de la Universidad de Chile, donde me encuentro realizando mi tesis orientada al uso de LLM en Mercado Público de Chile.
 
-- 🤖🧠 Mis áreas de estudio se centran en la inteligencia artificial, específicamente en redes neuronales y aprendizaje supervisado en modelos de clasificación.
+- 🤖🧠 Mis áreas de estudio se centran en Inteligencia Artificial Predictiva y últimamente me he enfocado en Inteligencia Artificial Generativa.
 
 - Correo de contacto: **eduardo.moya.b@ug.uchile.cl**
 
