@@ -8,7 +8,7 @@ Eduardo Moya</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNhMTV5azMxNXQ3NWlrZDdtZm8wbnRocGh3amZ2YzVlbzNldjZsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dqLX06ea2TJQIdeapg/giphy.gif">
 </a>
 
-- 💼 Actualmente me encuentro realizando una pasantía en MetLife Chile en el área de Business Intelligence, realizando pruebas y ajustes a modelos LLM para usos internos de la compañía.
+- 💼 Actualmente me encuentro trabajando en MetLife Chile en el área de Business Intelligence, en la subgerencia de Data Management. Formo parte de un proyecto de desarrollo de un DataHub para la compañía, encargado de la validación, gobierno de datos y gestión del proyecto. Anteriormente había realizado una pasantía en la misma empresa, donde estuve realizando pruebas y ajustes a modelos LLM para usos internos de la compañía.
 
 - 🧑‍💻 Trabajé por mas de un año y medio como ayudante de investigación en <a href="https://centroenergia.cl/" target="blank">Centro de Energía</a>, en labores de análisis de datos y desarrollo de software y algoritmos de automatización.
 
@@ -55,6 +55,9 @@ Softwares y Librerías
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![PSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991?logo=openai&logoColor=white)
+![GoogleGemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 
 
