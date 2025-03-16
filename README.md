@@ -30,7 +30,7 @@ Eduardo Moya</a></h1>
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/edv.vrdo">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1RrdEPaut_xXsYhCZf-zcFw6UyrBDaYRT/view?usp=sharing">
+		<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1Wf3HEoHnTn-CxO_oq00eiUhyZJidkzKa/view?usp=sharing">
 					<img src="https://img.icons8.com/plasticine/40/000000/resume.png" ></a>
       </div>
 
